@@ -1,3 +1,6 @@
+'use strict'
+
+console.log("                    Deep Equal:")
 
 //Funcion Recursiva deppEqual 
 function deepEqual(a, b) {
